@@ -38,6 +38,24 @@ I have seen some hats for them which seem to claim to work with MIPI setups but 
 It may be possible to get around this, but for purposes of this project, the HDMI driver board is assumed.
 
 # 
+# Designing a dashboard
+# 
+The easiest way to design a dashboard before loading it to your pi is to do the following:
+- Install tunerstudio on your desktop/laptop
+- Plug your LCD and driver board into your desktop/laptop hdmi as a secondary display
+- Fire up tunerstudio, go into your dashboard, go into designer mode and set it to fullscreen
+for "display #" where # is your monitor that your LCD represents (likely 2, or 3 if you have 2 monitors already)
+
+This I found easiest to do since it was easy to simply make changes on the desktop rapidly, full screen it, 
+put it into "demo mode" to see how I liked it, and rinse and repeat.
+
+Once you have a dashboard you like that fits your LCD, export that dashboard and save it as a .dash file.
+Any custom images you have used for backgrounds and custom settings will be saved with it.
+
+Remember where you saved it, as you will need a way to put it on your pi (i just emailed it to myself
+and downloaded it on my pi)
+
+# 
 # Directions for installing Raspbian
 # 
 It is best to utilize the directions on the official site for raspbian which can
@@ -127,6 +145,8 @@ Clamp the clip down, and it should hold it firmly in place.
 
 The longer ribbon is generally much easier as it sits fairly flat and lines up pretty easily.
 
+It should also be noted, the driver board requires a usb cable to power it.
+
 # Directions
 Let's start with finding your resolution for your LCD.  The easiest way to do this is to hook this up
 to your desktop, be it on windows or on mac.  It should automatically get you a picture on your desktop.
@@ -172,3 +192,10 @@ a larger amp power supply than the standard power supply that your usb comes wit
 a bit more amperage to work with and should actually power it better, and load faster.
 
 The largest drawback of load times on these is lack of power since standard usb power is less than 1 amp.
+
+This tutorial is for my own individual car so I do not have a 3d printed mount that will work for your car,
+so how you wish to house this into your gauge set is up to you.  Your easiest bet is a 3d printed custom mount.
+Or perhaps something you fabricate yourself.
+
+It should also be noted that for purposes of fitment, you should have your LCD screen be slightly smaller than the inner
+diameter of your gauge pod, otherwise you leave yourself not a lot of room to house it properly and mount it.
