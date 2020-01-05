@@ -20,7 +20,10 @@ This is based on a TFT display which will require the following:
 Sources for LCD hardware:
 The specific LCD I used was the following, along with the hdmi board
 Model # TM034XDZP02 LCD
+The cost for each is around $30, which puts it at close to $60 for both items.
 https://www.alibaba.com/product-detail/HDMI-driver-board-3-4-inch_62223501742.html?spm=a2756.order-detail-ta-bn-b.0.0.3aa32fc2jbibs2
+
+Note that you will need a driver board
 
 # 
 # Notes for LCDs and Driver Boards
