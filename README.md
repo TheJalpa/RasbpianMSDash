@@ -202,3 +202,18 @@ Or perhaps something you fabricate yourself.
 
 It should also be noted that for purposes of fitment, you should have your LCD screen be slightly smaller than the inner
 diameter of your gauge pod, otherwise you leave yourself not a lot of room to house it properly and mount it.
+
+## 
+## Future updates:
+## 
+
+Coming soon I would like to add more config files and tutorial information on here.
+If anyone has information pertaining to:
+
+- optimizing the installation of raspbian to run faster
+- optimizing boot screens as to not show the raspbian splash
+- optimizing boot screens as to not show the load drivers
+- optimizing the OS for minimal as possible installation
+
+I would much appreciate any of the info above so I can make it faster, and a bit more crisp, as well as
+get rid of the unecessary load info as it isn't needed except for troubleshooting.
