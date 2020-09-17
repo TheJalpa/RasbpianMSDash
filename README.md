@@ -6,6 +6,8 @@ Raspberry pi that will allow you to make a custom dash
 and load it onto a small LCD for purposes of making
 your own custom gauges in pods.
 
+![picture](https://i.imgur.com/ah9AKqg.jpg)
+
 # 
 # The Basics
 # 
