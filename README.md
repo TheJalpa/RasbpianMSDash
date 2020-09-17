@@ -211,8 +211,6 @@ Coming soon I would like to add more config files and tutorial information on he
 If anyone has information pertaining to:
 
 - optimizing the installation of raspbian to run faster
-- optimizing boot screens as to not show the raspbian splash
-- optimizing boot screens as to not show the load drivers
 - optimizing the OS for minimal as possible installation
 
 I would much appreciate any of the info above so I can make it faster, and a bit more crisp, as well as

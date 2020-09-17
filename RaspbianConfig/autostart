@@ -2,3 +2,4 @@
 @pcmanfm --desktop --profile LXDE-pi
 bash /usr/local/bin/TunerStudio.sh
 @xscreensaver -no-splash
+point-rpi
