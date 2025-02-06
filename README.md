@@ -26,7 +26,7 @@ The cost for each is around $30, which puts it at close to $60 for both items.
 This is one such example, keep in mind alibaba changes this stuff all the time so the link may expire, search the model number.  You are looking for a round 3.4" LCD and an HDMI driver board to go with it.
 [https://www.alibaba.com/product-detail/HDMI-driver-board-3-4-inch_62223501742.html?spm=a2756.order-detail-ta-bn-b.0.0.3aa32fc2jbibs2](https://www.alibaba.com/product-detail/Confu-HDMII-to-MIPI-DSI-Driver_62052729760.html?spm=a2700.galleryofferlist.normal_offer.d_title.640713a0e6ZGUN)
 
-[https://www.google.com/search?q=TM034XDZP02](Search by Model Number)
+https://www.google.com/search?q=TM034XDZP02 (Search by Model Number)
 
 # 
 # Notes for LCDs and Driver Boards
